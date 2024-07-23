@@ -4,7 +4,7 @@
 This is not an official internship program by British Airways. This virtual internship will allow data scientist to apply analytical skills to make tangible impact by providing recommendations, tools, and models that drive key business decisions.
 
 ## Task 1
-- Scrape data from an airlines reviews website called [Skytrax](https://www.airlinequality.com/).
+- Scrape data from an airlines reviews website called [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways/).
 - Clean data and perform customer's review sentiment analysis using BeautifulSoup.
 - Prepare a PowerPoint slide to present our summary and findings.
 
