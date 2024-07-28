@@ -1,7 +1,7 @@
 # British Airways Virtual Internship by Forage
 ![british](https://github.com/user-attachments/assets/19fc8524-cd41-4c01-9602-4b0cf0d317ec)
 
-This is not an official internship program by British Airways. This virtual internship will allow data scientist to apply analytical skills to make tangible impact by providing recommendations, tools, and models that drive key business decisions.
+This virtual internship will allow data scientist to apply analytical skills to make tangible impact by providing recommendations, tools, and models that drive key business decisions.
 
 ## Task 1
 - Scrape data from an airlines reviews website called [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways/).
